@@ -41,4 +41,4 @@ python mini_image_analyzer.py
 - Add functions to encapsulate each metric for unit testing.
 
 
-Author: Harsh Singh
+Author: Harsh Shubham Singh
